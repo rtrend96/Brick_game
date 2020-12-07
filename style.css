@@ -1,0 +1,31 @@
+.container {
+    height: 800px;
+    width: 80%;
+    margin-left: 5%;
+    overflow: hidden;
+    border: 1px solid black;
+    margin-top: 20px;
+    position: relative;
+    background-color: rgb(26, 7, 7);
+}
+
+.score,
+.lives {
+    font-size: 3em;
+}
+.body{
+    background-color: black;
+}
+.brick {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 91px;
+    height: 40px;
+    padding: 1px;
+    color: rgb(29, 211, 89);
+    border: 1px solid rgb(232, 164, 164);
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 40px;
+}
