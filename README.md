@@ -1,4 +1,5 @@
 # Brick_game
-
-Initial javascript Project.
-Using Animation-Frame and normal script.
+Check on the link to play.....!!!!!  <br/>
+https://webpage.pace.edu/rn30204n/final_project/
+Initial javascript Project. <br/>
+Using Animation-Frames.
